@@ -9,6 +9,8 @@ Data Visualization<br>
 Predictive Modeling<br>
 <h4>Here are my skills:</h4>
 Python<br>
+Good knowledge of java<br>
+c++<br>
 Machine Learning (Scikit-learn)<br>
 Data Analysis (Pandas, NumPy)<br>
 Data Visualization (Matplotlib)<br>
